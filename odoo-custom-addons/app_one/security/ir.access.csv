@@ -1,0 +1,3 @@
+id,name,model_id,group_id/id,operation,domain
+access_app_one_item_user,app_one.item.user,app_one.item,base.group_user,crud,
+access_app_one_realstateproperty_user,app_one.realstateproperty.user,app_one.realstateproperty,base.group_user,crud,
